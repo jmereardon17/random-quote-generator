@@ -12,88 +12,77 @@ const quotes = [
     source: 'Darth Vader',
     citation: 'Star Wars: Episode IV - A New Hope',
     scene: 'Darth Vader and Admiral Motti, Imperial Fleet',
-    year: 1977,
-    id: 1
+    year: 1977
   },
   { 
     quote: 'Do. Or do not. There is no try.',
     source: 'Yoda',
     citation: 'Star Wars: Episode V - The Empire Strikes Back',
     scene: 'Yoda trains Luke, Dagobah.',
-    year: 1980,
-    id: 2
+    year: 1980
   },
   {
     quote: 'At last we will reveal ourselves to the Jedi. At last we will have revenge.',
     source: 'Darth Maul',
     citation: 'Star Wars: Episode I - The Phantom Menace',
     scene: 'Darth Sidious and Darth Maul, Coruscant.',
-    year: 1999,
-    id: 3
+    year: 1999
   },
   {
     quote: 'All we have to decide is what to do with the time that is given to us.',
     source: 'Gandalf',
     citation: 'The Lord of the Rings: The Fellowship of the Ring',
     scene: 'Gandalf and Frodo, The Mines of Moria.',
-    year: 2001,
-    id: 4
+    year: 2001
   },
   { 
     quote: 'One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.',
     source: 'Gandalf',
     citation: 'The Lord of the Rings: The Fellowship of the Ring',
     scene: `Gandalf and Frodo, the Shire.`,
-    year: 2001,
-    id: 5
+    year: 2001
   },
   {
     quote: `He's no good to me dead!`,
     source: 'Boba Fett',
     citation: 'Star Wars: Episode V - The Empire Strikes Back',
     scene: `Boba Fett and Darth Vader, Bespin.`,
-    year: 1980,
-    id: 6
+    year: 1980
   },
   {
     quote: `Your focus determines your reality.`,
     source: 'Qui Gon Jinn',
     citation: 'Star Wars: Episode I - The Phantom Menace',
     scene: `Qui Gon Jin and Darth Maul, Naboo.`,
-    year: 1999,
-    id: 7
+    year: 1999
   },
   {
     quote: `If you build it, he will come.`,
     source: 'Whispers',
     citation: 'Field of Dreams',
     scene: `Ray, Cornfield.`,
-    year: 1989,
-    id: 8
+    year: 1989
   },
   {
     quote: `With great power, comes great responsibility.`,
     source: 'Uncle Ben',
     citation: 'Spider-Man',
     scene: `Uncle Ben and Peter Parker, Uncle Ben's Car.`,
-    year: 2002,
-    id: 9
+    year: 2002
   },
   {
     quote: `What if you had to tell someone the most important thing in the world, but you knew they'd never believe you? I'd try.`,
     source: 'Doug Carlin',
     citation: 'Deja Vu',
     scene: `Claire's house.`,
-    year: 2006,
-    id: 10
+    year: 2006
   },
   {
     quote: `The dark side is a path way to many abilities some consider to be unnatural.`,
     source: 'Chancellor Palpatine',
     citation: 'Star Wars: Episode III - Revenge of the Sith',
     scene: `Chancellor Palpatine and Anakin, Galaxies Opera House`,
-    year: 2005,
-    id: 11
+    year: 2005
   }
 ];
 
